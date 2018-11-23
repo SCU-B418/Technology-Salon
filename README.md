@@ -16,7 +16,8 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 |Content|Time|
 |-|-|
 |Share project progress first|Weekly|
-|Share Your Reading Papers|Weekly|
+|Share Online Judge|Weekly|
 |Share the basic knowledge of Python|weekly|
+|Share Your idea or Reading Papers or...|Irregular|
 |Share NLP and KG|Irregular|
 |Sharing Algorithms with TensorFlow|Irregular|
