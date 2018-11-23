@@ -13,11 +13,11 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 5. Python & TensorFlow &...
 
 # Explain
-|Content|Time|
-|-|-|
-|Share project progress first|Weekly|
-|Share Online Judge|Weekly|
-|Share the basic knowledge of Python|weekly|
-|Share Your idea or Reading Papers or...|Irregular|
-|Share NLP and KG|Irregular|
-|Sharing Algorithms with TensorFlow|Irregular|
+|Content|Frequency|Time|
+|-|-|-|
+|Share Online Judge|Weekly|About 30 minutes|
+|Share the basic knowledge of Python|Weekly|About 30 minutes|
+|Share project progress first|Weekly|5 minutes or 30 minutes|
+|Share Your Idea or Reading Papers or...|Irregular|Remaining time|
+|Share NLP and KG|Irregular|Remaining time|
+|Sharing Algorithms with TensorFlow|Irregular|Remaining time|
