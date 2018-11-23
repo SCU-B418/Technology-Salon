@@ -5,14 +5,24 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 + Place: B418 Laboratory
 + Participant：Friends interested in machine learning
 
-# Primary Coverage
+
+# Entertainment(Singular Week)
++ Watch quality videos
++
+
+## Quality Videos Include
++ High score movie
++ Bilibili Funny Video
++ 
+
+# Learning Primary Coverage(Even numbers Week)
 1. Laboratory Project Execution Method;
 2. Natural Language Processing;
 3. Knowledge Graph;
 4. Classical Machine Learning Algorithms
 5. Python & TensorFlow &...
 
-# Explain
+## Learning Primary Coverage Explain
 |Content|Frequency|Time|
 |-|-|-|
 |Share Online Judge|Weekly|About 30 minutes|
