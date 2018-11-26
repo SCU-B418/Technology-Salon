@@ -7,13 +7,18 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 
 
 # Entertainment(Singular Week)
-+ Watch quality videos
-+
+> Watch quality videos
 
 ## Quality Videos Include
 + High score movie
 + Bilibili Funny Video
-+ 
++ Learning video
+
+## Video program list
++ 机器学习技法（林轩田） https://www.bilibili.com/video/av12469267
++ 机器学习基石（林轩田） https://www.bilibili.com/video/av1624332
++ 李宏毅深度学习(2017)  https://www.bilibili.com/video/av9770302
++ 热播电影 https://www.dytt8.net/
 
 # Learning Primary Coverage(Even numbers Week)
 1. Laboratory Project Execution Method;
