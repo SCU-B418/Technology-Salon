@@ -37,3 +37,19 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 |Share Your Idea or Reading Papers or...|Irregular|Remaining time|
 |Share NLP and KG|Irregular|Remaining time|
 |Sharing Algorithms with TensorFlow|Irregular|Remaining time|
+
+### Online Judge Resources
++ http://poj.org/
++ https://www.spoj.com/
++ https://www.lintcode.com/
++ http://hihocoder.com/
++ https://www.codechef.com/
++ https://coderbyte.com/
+
+### Basic Knowledge of Python  
++ https://python3-cookbook.readthedocs.io/zh_CN/latest/
++ https://docs.python-guide.org/
++ https://github.com/eastlakeside/interpy-zh
+
+### Algorithms
++ https://github.com/TheAlgorithms/Python
