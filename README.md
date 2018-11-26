@@ -33,7 +33,7 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 |-|-|-|
 |Share Online Judge|Weekly|About 30 minutes|
 |Share the basic knowledge of Python|Weekly|About 30 minutes|
-|Share project progress first|Weekly|5 minutes or 30 minutes|
+|Share project progress|Weekly|5 minutes or 30 minutes|
 |Share Your Idea or Reading Papers or...|Irregular|Remaining time|
 |Share NLP and KG|Irregular|Remaining time|
 |Sharing Algorithms with TensorFlow|Irregular|Remaining time|
@@ -46,10 +46,13 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 + https://www.codechef.com/
 + https://coderbyte.com/
 
-### Basic Knowledge of Python  
+### Basic Knowledge Resources of Python  
 + https://python3-cookbook.readthedocs.io/zh_CN/latest/
 + https://docs.python-guide.org/
 + https://github.com/eastlakeside/interpy-zh
 
-### Algorithms
+### Project Resources
++ https://github.com/SCU-B418/Intelligent-Furniture/blob/master/智能家居项目资料整理.md
+
+### Algorithms Resources
 + https://github.com/TheAlgorithms/Python
