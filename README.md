@@ -16,6 +16,7 @@ Technology Salon：B418 Laboratory Technology Salon Monday Afternoon。
 
 ## Video program list
 + 线性代数的本质        https://www.bilibili.com/video/av6731067/
++ 形象化地理解高维空间   https://www.youtube.com/watch?v=zwAD6dRSVyI
 + 机器学习技法（林轩田） https://www.bilibili.com/video/av12469267
 + 机器学习基石（林轩田） https://www.bilibili.com/video/av1624332
 + 李宏毅深度学习(2017)  https://www.bilibili.com/video/av9770302
